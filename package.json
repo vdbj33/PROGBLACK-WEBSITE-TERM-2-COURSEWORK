@@ -1,0 +1,24 @@
+{
+  "name": "progblack-website-term-2-coursework",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vdbj33/PROGBLACK-WEBSITE-TERM-2-COURSEWORK#readme",
+  "bugs": {
+    "url": "https://github.com/vdbj33/PROGBLACK-WEBSITE-TERM-2-COURSEWORK/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdbj33/PROGBLACK-WEBSITE-TERM-2-COURSEWORK.git"
+  },
+  "license": "ISC",
+  "author": "Nina Lane",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
