@@ -1,0 +1,56 @@
+{
+    "groups":[
+        {"ID":1, "Name":"ILLIT", "Debut_Date":"25 March 2024", "Members_Num":5, "Company":"BELIFT LAB (HYBE)", "Img_URLs":""},
+        
+        {"ID":2, "Name":"KATSEYE", "Debut_Date":"28 June 2024", "Members_Num":6, "Company":"HYBE x Geffen", "Img_URLs":""},
+
+        {"ID":3, "Name":"aespa", "Debut_Date":"17 November 2020", "Members_Num":4, "Company":"SM", "Img_URLs":""},
+
+        {"ID":4, "Name":"IVE", "Debut_Date":"1 December 2021", "Members_Num":6, "Company":"Starship", "Img_URLs":""}
+    ],
+
+    "idols":[
+        {"ID":1, "Group_ID":1, "Name":"Wonhee", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"26 June 2007", "Img_URLs":""},
+        {"ID":2, "Group_ID":1, "Name":"Yunah", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"15 January 2004", "Img_URLs":""},
+        {"ID":3, "Group_ID":1, "Name":"Moka", "Ethnicity":"Japanese", "Nationality":"Japanese", "Birth_Date":"8 October 2004", "Img_URLs":""},
+        {"ID":4, "Group_ID":1, "Name":"Minju", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"11 May 2004", "Img_URLs":""},
+        {"ID":5, "Group_ID":1, "Name":"Iroha", "Ethnicity":"Japanese", "Nationality":"Japanese", "Birth_Date":"4 February 2008", "Img_URLs":""},
+
+        {"ID":6, "Group_ID":2, "Name":"Yoonchae", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"6 December 2007", "Img_URLs":""},
+        {"ID":7, "Group_ID":2, "Name":"Megan", "Ethnicity":"Chinese-Singaporean, Swedish", "Nationality":"American", "Birth_Date":"10 February 2006", "Img_URLs":""},
+        {"ID":8, "Group_ID":2, "Name":"Sophia", "Ethnicity":"Filipina", "Nationality":"Filipina-American", "Birth_Date":"31 December 2002", "Img_URLs":""},
+        {"ID":9, "Group_ID":2, "Name":"Lara", "Ethnicity":"Indian, Sri-Lankan, Tamil", "Nationality":"American", "Birth_Date":"3 November 2005", "Img_URLs":""},
+        {"ID":10, "Group_ID":2, "Name":"Daniela", "Ethnicity":"Cuban-Venezuelan-Italian", "Nationality":"American", "Birth_Date":"1 July 2004", "Img_URLs":""},
+        {"ID":11, "Group_ID":2, "Name":"Manon", "Ethnicity":"Ghanian, Swiss-Italian", "Nationality":"Swiss", "Birth_Date":"26 June 2002", "Img_URLs":""},
+
+        {"ID":12, "Group_ID":3, "Name":"Karina", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"11 April 2000", "Img_URLs":""},
+        {"ID":13, "Group_ID":3, "Name":"Winter", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"1 January 2001", "Img_URLs":""},
+        {"ID":14, "Group_ID":3, "Name":"Ningning", "Ethnicity":"Chinese", "Nationality":"Chinese", "Birth_Date":"23 October 2002", "Img_URLs":""},
+        {"ID":15, "Group_ID":3, "Name":"Karina", "Ethnicity":"Japanese-Korean", "Nationality":"Japanese", "Birth_Date":"11 April 2000", "Img_URLs":""},
+
+        {"ID":16, "Group_ID":4, "Name":"Wonyoung", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"31 August 2004", "Img_URLs":""},
+        {"ID":17, "Group_ID":4, "Name":"Rei", "Ethnicity":"Japanese", "Nationality":"Japanese", "Birth_Date":"3 February 2004", "Img_URLs":""},
+        {"ID":18, "Group_ID":4, "Name":"Yujin", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"1 September 2003", "Img_URLs":""},
+        {"ID":19, "Group_ID":4, "Name":"Liz", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"21 November 2004", "Img_URLs":""},
+        {"ID":20, "Group_ID":4, "Name":"Leeseo", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"21 February 2007", "Img_URLs":""},
+        {"ID":21, "Group_ID":4, "Name":"Gaeul", "Ethnicity":"South Korean", "Nationality":"South Korean", "Birth_Date":"24 September 2002", "Img_URLs":""}
+    ],
+
+    "songs":[
+        {"ID":1, "Group_ID":1, "Name":"Magnetic","Length":"2:40","Album/EP":"SUPER REAL ME", "YT_URL":"https://www.youtube.com/watch?v=Vk5-c_v4gMU"},
+        {"ID":2, "Group_ID":1, "Name":"Cherish (My Love)","Length":"2:56","Album/EP":"I'LL LIKE YOU", "YT_URL":"https://youtu.be/tbDGl7jEazA?si=BmgYnX8isP3Hgr02"},
+        {"ID":3, "Group_ID":1, "Name":"jellyous","Length":"2:43","Album/EP":"bomb", "YT_URL":"https://youtu.be/GkG60kISnfc?si=8_CCylwopSyZgqlv"},
+
+        {"ID":4, "Group_ID":2, "Name":"Touch","Length":"2:09","Album/EP":"SIS (Soft Is Strong)", "YT_URL":"https://youtu.be/l9CZykYZkOQ?si=VoSFwiLdrxkhhb4c"},
+        {"ID":5, "Group_ID":2, "Name":"Gnarly","Length":"2:17","Album/EP":"BEAUTIFUL CHAOS", "YT_URL":"https://youtu.be/R2-yomhYAj4?si=GO_nFRE_926jMXip"},
+        {"ID":6, "Group_ID":2, "Name":"Gameboy","Length":"3:05","Album/EP":"BEAUTIFUL CHAOS", "YT_URL":"https://youtu.be/-bC4iak3kxg?si=nxy4TAbZ-FlKvZ7s"},
+
+        {"ID":7, "Group_ID":3, "Name":"Welcome To MY World (feat. naevis)","Length":"3:26","Album/EP":"MY WORLD", "YT_URL":"https://youtu.be/0xdB_vo4r2c?si=-tnIk5uxjlgFP9dg"},
+        {"ID":8, "Group_ID":3, "Name":"Supernova","Length":"2:58","Album/EP":"Armageddon", "YT_URL":"https://youtu.be/phuiiNCxRMg?si=sOrinBWa1zasXPaB"},
+        {"ID":9, "Group_ID":3, "Name":"Whiplash","Length":"3:03","Album/EP":"Whiplash", "YT_URL":"https://youtu.be/jWQx2f-CErU?si=PjqReLfaKjYhvbek"},
+
+        {"ID":10, "Group_ID":4, "Name":"I AM","Length":"3:03","Album/EP":"I've IVE", "YT_URL":"https://youtu.be/6ZUIwj3FgUY?si=OAfeSzHlV0MuDWVv"},
+        {"ID":11, "Group_ID":4, "Name":"Accendio","Length":"3:12","Album/EP":"IVE SWITCH", "YT_URL":"https://youtu.be/PGLx4V680J8?si=Lrti1KyqRsbNs-rr"},
+        {"ID":12, "Group_ID":4, "Name":"XOXZ","Length":"2:34","Album/EP":"IVE SECRET", "YT_URL":"https://youtu.be/B1ShLiq3EVc?si=sKTDH8bm3R6bSlxA"}
+    ]
+}
