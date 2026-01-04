@@ -1,12 +1,15 @@
 // use express package, it's easier
 
 // Adapted from the nodejs lecture notes
+const path = require("path")
 const express = require("express")
-const app = express
+const app = express()
 const port = 3000
 
-app.get("/", function(req,resp){
-    resp.send("Hello world")
+app.get("/", function(req,res){
+    res.sendFile(path.join(__dirname, "/index.html"))   // Send the HTML file
+    app.use(express.static(__dirname))      // Send the other files (CSS, JS, media)
 })
 
 app.listen(port)
+console.log("Server at http://localhost:" + port)
